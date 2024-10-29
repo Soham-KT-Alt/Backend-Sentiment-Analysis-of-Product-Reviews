@@ -1,6 +1,7 @@
 import tensorflow as tf
 import dill as pk
 import os
+import keras
 
 
 base_dir = os.path.dirname(__file__)
