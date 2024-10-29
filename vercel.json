@@ -14,5 +14,7 @@
       "src": "/(.*)",
       "dest": "/simple-server.py"
     }
-  ]
+  ],
+  "files": ["api/lstm_model_new.keras", "api/index.py", "api/data_loader.py", "api/data_predict.py"]
+  
 }
